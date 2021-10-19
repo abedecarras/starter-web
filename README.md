@@ -23,5 +23,8 @@ file system.
 
 ## how to contribute
 
+Please fork this repository and then issue Pull Requests for
+review.
+
 ### copyright
 2021 Git.Training.
