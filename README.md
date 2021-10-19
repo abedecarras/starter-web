@@ -22,3 +22,6 @@ cab be on any server or even local
 file system.
 
 ## how to contribute
+
+### copyright
+2021 Git.Training.
