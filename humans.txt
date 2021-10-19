@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    agustin bedecarras	abedecarras@gmail.com	@huevoagustin
 
 # THANKS
 
